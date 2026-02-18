@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Raul
 
-<!--
-**Raul-dd/Raul-dd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focused on Java and Spring Boot.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I build backend applications using Java, Spring Boot and relational databases, applying clean architecture principles and good coding practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧱 Technologies
+- Java
+- Spring Boot
+- JPA / Hibernate
+- MySQL
+- Git
+- Maven
+
+## 📌 Featured Projects
+- 🛠 Ferretería Desktop App (Java)
+- 🚀 Spring Boot CRUD API
+- ☕ Java Functional Programming Exercises
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/raul-dd/
+- Email: rauldddev@gmail.com
