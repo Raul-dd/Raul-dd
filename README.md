@@ -1,5 +1,5 @@
 # Raul Díaz Díaz
-**Backend Developer (Java • Spring Boot)** — REST APIs • MySQL • Clean Architecture • Git
+**Backend Developer** — Java • Spring Boot • Laravel • REST APIs • MySQL • Clean Architecture
 
 📍 Hidalgo, Mexico  
 🔗 LinkedIn: https://www.linkedin.com/in/raul-dd/  
@@ -8,21 +8,36 @@
 ---
 
 ## Profile
-Backend developer focused on building **clean, secure and maintainable REST APIs** using **Java + Spring Boot** and relational databases.
+Backend developer focused on building **secure and maintainable APIs**, with clear structure and good documentation.
+I also build full-stack projects using **Laravel + React** when needed.
 
-**What I care about**
-- Clean code and clear project structure (controllers/services/repositories/DTOs)
-- Security (authentication/authorization) and validation
-- Reliable APIs (error handling, pagination, filtering)
-- Documentation that makes projects easy to run and review
+**What I focus on**
+- 🧱 Clean Architecture / layered structure
+- 🔐 Auth & roles (JWT / security)
+- ✅ Validation + global error handling
+- 📄 Documentation (README, Postman examples)
+- 🗃️ SQL design and relational databases
 
 ---
 
-## Tech Stack
-- **Backend:** Java, Spring Boot, Spring Security  
-- **Database:** MySQL  
-- **Tools:** Git, Maven, Postman  
-- **Practices:** Clean Architecture, DTO mapping, validation, global error handling
+## Tech Stack (no images)
+### Backend
+- ☕ **Java**
+- 🍃 **Spring Boot**
+- 🐘 **PHP**
+- 🧩 **Laravel**
+
+### Frontend
+- ⚛️ **React**
+
+### Database
+- 🐬 **MySQL**
+
+### Tools
+- 🌿 **Git**
+- 📦 **Maven**
+- 📮 **Postman**
+- 🐳 **Docker** (optional)
 
 ---
 
@@ -30,26 +45,15 @@ Backend developer focused on building **clean, secure and maintainable REST APIs
 > Replace `REPO_1`, `REPO_2`, `REPO_3` with your real repository names.
 
 ### 1) REPO_1 — Spring Boot REST API
-**Goal:** API with authentication, CRUD modules, validation, and database integration.  
-**Highlights:** JWT/Security, pagination, DTOs, error handling, MySQL.  
+**Highlights:** JWT/Security, CRUD, pagination, DTOs, validations, MySQL.  
 Repo: https://github.com/Raul-dd/REPO_1
 
-### 2) REPO_2 — Java Desktop App
-**Goal:** Desktop system for management (inventory/sales/etc.).  
-**Highlights:** MVC structure, persistence, reporting.  
+### 2) REPO_2 — Laravel + React App
+**Highlights:** REST API + React UI, auth, database integration, clean structure.  
 Repo: https://github.com/Raul-dd/REPO_2
 
-### 3) REPO_3 — Java Exercises / Practice
-**Goal:** Focused practice to improve problem solving and core Java concepts.  
+### 3) REPO_3 — Practice / Exercises
 Repo: https://github.com/Raul-dd/REPO_3
-
----
-
-## What you’ll find in my repositories
-- Clear setup steps and documentation (README + Postman examples)
-- Consistent structure and naming
-- Separation of concerns (layers)
-- Focus on maintainability and readability
 
 ---
 
