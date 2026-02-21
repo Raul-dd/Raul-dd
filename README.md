@@ -50,9 +50,9 @@ Backend developer focused on building secure and maintainable APIs, with clear s
 
 <!-- Iconos grandes, 3 por fila -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="60" />
-  <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="60" />
-  <img src="https://skillicons.dev/icons?i=laravel&theme=dark" height="60" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="160" />
+  <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="160" />
+  <img src="https://skillicons.dev/icons?i=laravel&theme=dark" height="160" />
 </p>
 
 <p align="center">
