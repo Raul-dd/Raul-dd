@@ -28,7 +28,10 @@
     />
   </a>
 </p>
-
+---
+<p align="center">
+  <img src="./Presentation.png" alt="Presentation" width="100%" />
+</p>
 ---
 
 ## Profile
