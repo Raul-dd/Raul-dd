@@ -71,17 +71,17 @@ Backend developer focused on building secure and maintainable APIs, with clear s
 
 ## Featured Projects
 
-### 1) REPO_1 — Spring Boot REST API  
-**Highlights:** JWT/Security, CRUD, pagination, DTOs, validations, MySQL.  
-**Repo:** https://github.com/Raul-dd/TU_REPO_1  
+### 1) REPO_1 — Desktop program for managing auto parts stores
+**Highlights:** Desktop application for hardware store management built with Java and Swing.
+**Repo:** [https://github.com/Raul-dd/TU_REPO_1  ](https://github.com/Raul-dd/ferreteria-desktop-java.git)
 
-### 2) REPO_2 — Laravel + React App  
-**Highlights:** Auth/roles, CRUD modules, REST API, validations, MySQL.  
-**Repo:** https://github.com/Raul-dd/TU_REPO_2  
+### 2) REPO_2 — Functional programming exercise in Java
+**Highlights:** Java functional programming exercise using Streams, Lambdas, Collectors and parallel streams to process supermarket product data.
+**Repo:** [https://github.com/Raul-dd/TU_REPO_2  ](https://github.com/Raul-dd/java-streams-supermarket-exercise.git)
 
-### 3) REPO_3 — Practice / Exercises  
-**Highlights:** Clean code, backend practices, API patterns, exercises.  
-**Repo:** https://github.com/Raul-dd/TU_REPO_3  
+### 3) REPO_3 — Simple CRUD in Spring Boot
+**Highlights:** Simple CRUD of users with Spring Boot (REST API).
+**Repo:** [https://github.com/Raul-dd/TU_REPO_3 ](https://github.com/Raul-dd/springboot-users-crud.git) 
 
 ---
 
@@ -90,13 +90,3 @@ Backend developer focused on building secure and maintainable APIs, with clear s
 - 🔗 LinkedIn: https://www.linkedin.com/in/raul-dd/  
 - 📧 Email: raulddev@gmail.com  
 - 📍 Hidalgo, Mexico  
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raul-dd&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raul-dd&theme=tokyonight&hide_border=true" />
-</p>
