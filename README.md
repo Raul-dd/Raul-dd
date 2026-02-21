@@ -28,6 +28,8 @@
     />
   </a>
 </p>
+
+---
 ## Profile
 
 Backend developer focused on building secure and maintainable APIs, with clear structure and strong documentation.
@@ -50,15 +52,9 @@ Backend developer focused on building secure and maintainable APIs, with clear s
   <img src="https://skillicons.dev/icons?i=java&theme=dark" height="72" />
   <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="72" />
   <img src="https://skillicons.dev/icons?i=laravel&theme=dark" height="72" />
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=git&theme=dark" height="72" />
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="72" />
   <img src="https://skillicons.dev/icons?i=react&theme=dark" height="72" />
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=maven&theme=dark" height="72" />
   <img src="https://skillicons.dev/icons?i=php&theme=dark" height="72" />
   <img src="https://skillicons.dev/icons?i=postman&theme=dark" height="72" />
