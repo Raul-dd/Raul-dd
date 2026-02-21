@@ -42,44 +42,49 @@
 
 <table>
   <tr>
+    <!-- LEFT -->
     <td width="52%" valign="top">
 
-## Profile
+      <h2>Profile</h2>
+      <p>
+        Backend developer focused on building secure and maintainable APIs,
+        with clear structure and strong documentation.
+      </p>
 
-Backend developer focused on building secure and maintainable APIs, with clear structure and strong documentation.
-
-## Focus
-
-- Clean Architecture / layered structure  
-- Auth & roles (JWT / security)  
-- Validation + global error handling  
-- Pagination, filters, and consistent responses  
-- SQL design with relational databases  
+      <h2>Focus</h2>
+      <ul>
+        <li><b>Clean Architecture</b> / layered structure</li>
+        <li><b>Auth & roles</b> (JWT / security)</li>
+        <li><b>Validation</b> + global error handling</li>
+        <li><b>Pagination</b>, filters, and consistent responses</li>
+        <li><b>SQL</b> design with relational databases</li>
+      </ul>
 
     </td>
 
+    <!-- RIGHT -->
     <td width="48%" valign="top">
 
-## Tech Stack
+      <h2>Tech Stack</h2>
 
-<!-- Iconos grandes, 3 por fila -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="160" />
-  <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="160" />
-  <img src="https://skillicons.dev/icons?i=laravel&theme=dark" height="160" />
-</p>
+      <!-- 3 x 3, iconos grandes -->
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=java&theme=dark" height="72" />
+        <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="72" />
+        <img src="https://skillicons.dev/icons?i=laravel&theme=dark" height="72" />
+      </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="60" />
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="60" />
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="60" />
-</p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=git&theme=dark" height="72" />
+        <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="72" />
+        <img src="https://skillicons.dev/icons?i=react&theme=dark" height="72" />
+      </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=maven&theme=dark" height="60" />
-  <img src="https://skillicons.dev/icons?i=php&theme=dark" height="60" />
-  <img src="https://skillicons.dev/icons?i=postman&theme=dark" height="60" />
-</p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=maven&theme=dark" height="72" />
+        <img src="https://skillicons.dev/icons?i=php&theme=dark" height="72" />
+        <img src="https://skillicons.dev/icons?i=postman&theme=dark" height="72" />
+      </p>
 
     </td>
   </tr>
@@ -91,59 +96,41 @@ Backend developer focused on building secure and maintainable APIs, with clear s
    Featured Projects (3 tarjetas EN FILA)
    ========================= -->
 
-## Featured Projects
+<h2>Featured Projects</h2>
 
 <table>
   <tr>
     <td width="33%" valign="top">
-
-### 1) REPO_1 — Spring Boot REST API
-
-**Highlights:** JWT/Security, CRUD, pagination, DTOs, validations, MySQL.
-
-**Repo:** https://github.com/Raul-dd/TU_REPO_1
-
+      <h3>1) REPO_1 — Spring Boot REST API</h3>
+      <p><b>Highlights:</b> JWT/Security, CRUD, pagination, DTOs, validations, MySQL.</p>
+      <p><b>Repo:</b> <a href="https://github.com/Raul-dd/TU_REPO_1">https://github.com/Raul-dd/TU_REPO_1</a></p>
     </td>
 
     <td width="33%" valign="top">
-
-### 2) REPO_2 — Laravel + React App
-
-**Highlights:** Auth/roles, CRUD modules, REST API, validations, MySQL.
-
-**Repo:** https://github.com/Raul-dd/TU_REPO_2
-
+      <h3>2) REPO_2 — Laravel + React App</h3>
+      <p><b>Highlights:</b> Auth/roles, CRUD modules, REST API, validations, MySQL.</p>
+      <p><b>Repo:</b> <a href="https://github.com/Raul-dd/TU_REPO_2">https://github.com/Raul-dd/TU_REPO_2</a></p>
     </td>
 
     <td width="33%" valign="top">
-
-### 3) REPO_3 — Practice / Exercises
-
-**Highlights:** Clean code, backend practices, API patterns, exercises.
-
-**Repo:** https://github.com/Raul-dd/TU_REPO_3
-
+      <h3>3) REPO_3 — Practice / Exercises</h3>
+      <p><b>Highlights:</b> Clean code, backend practices, API patterns, exercises.</p>
+      <p><b>Repo:</b> <a href="https://github.com/Raul-dd/TU_REPO_3">https://github.com/Raul-dd/TU_REPO_3</a></p>
     </td>
   </tr>
 </table>
 
 <hr/>
 
-<!-- =========================
-   Contact
-   ========================= -->
+<h2>Contact</h2>
 
-## Contact
-
-- 🔗 LinkedIn: https://www.linkedin.com/in/raul-dd/  
-- 📧 Email: raulddev@gmail.com  
-- 📍 Hidalgo, Mexico  
+<ul>
+  <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/raul-dd/">https://www.linkedin.com/in/raul-dd/</a></li>
+  <li>📧 Email: <a href="mailto:raulddev@gmail.com">raulddev@gmail.com</a></li>
+  <li>📍 Hidalgo, Mexico</li>
+</ul>
 
 <hr/>
-
-<!-- =========================
-   Stats (opcional)
-   ========================= -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Raul-dd&show_icons=true&theme=tokyonight&hide_border=true" />
