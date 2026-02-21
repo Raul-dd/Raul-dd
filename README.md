@@ -9,12 +9,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Hidalgo%2C%20Mexico-0B1020?style=for-the-badge&labelColor=0B1020&color=111827" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20HIDALGO%2C%20MEXICO-0B1020?style=for-the-badge&labelColor=0B1020&color=111827" />
   <a href="https://www.linkedin.com/in/raul-dd/">
-    <img src="https://img.shields.io/badge/in%20LinkedIn-0A66C2?style=for-the-badge&labelColor=0B1020&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/IN%20LINKEDIN-0A66C2?style=for-the-badge&labelColor=0B1020&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:raulddev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail%20raulddev%40gmail.com-EA4335?style=for-the-badge&labelColor=0B1020&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/GMAIL%20RAULDDEV%40GMAIL.COM-EA4335?style=for-the-badge&labelColor=0B1020&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -36,11 +36,11 @@ Backend developer focused on building secure and maintainable APIs, with clear s
 
 ## Focus
 
-- **Clean Architecture** / layered structure  
-- **Auth & roles** (JWT / security)  
-- **Validation** + global error handling  
-- **Pagination**, filters, and consistent responses  
-- **SQL** design with relational databases  
+- Clean Architecture / layered structure  
+- Auth & roles (JWT / security)  
+- Validation + global error handling  
+- Pagination, filters, and consistent responses  
+- SQL design with relational databases  
 
     </td>
 
@@ -48,30 +48,23 @@ Backend developer focused on building secure and maintainable APIs, with clear s
 
 ## Tech Stack
 
+<!-- Iconos grandes, 3 por fila -->
 <p align="center">
-  <!-- fila 1 -->
-  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-111827?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="60" />
+  <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="60" />
+  <img src="https://skillicons.dev/icons?i=laravel&theme=dark" height="60" />
 </p>
 
 <p align="center">
-  <!-- fila 2 -->
-  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="60" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="60" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="60" />
 </p>
 
 <p align="center">
-  <!-- fila 3 -->
-  <img src="https://img.shields.io/badge/Apache%20Maven-111827?style=for-the-badge&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- iconos extra (bonitos) -->
-  <img src="https://skillicons.dev/icons?i=java,spring,laravel,react,mysql,git,maven,php,postman&perline=9" />
+  <img src="https://skillicons.dev/icons?i=maven&theme=dark" height="60" />
+  <img src="https://skillicons.dev/icons?i=php&theme=dark" height="60" />
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" height="60" />
 </p>
 
     </td>
@@ -81,7 +74,7 @@ Backend developer focused on building secure and maintainable APIs, with clear s
 <hr/>
 
 <!-- =========================
-   Featured Projects (3 tarjetas)
+   Featured Projects (3 tarjetas EN FILA)
    ========================= -->
 
 ## Featured Projects
@@ -97,6 +90,7 @@ Backend developer focused on building secure and maintainable APIs, with clear s
 **Repo:** https://github.com/Raul-dd/TU_REPO_1
 
     </td>
+
     <td width="33%" valign="top">
 
 ### 2) REPO_2 — Laravel + React App
@@ -106,6 +100,7 @@ Backend developer focused on building secure and maintainable APIs, with clear s
 **Repo:** https://github.com/Raul-dd/TU_REPO_2
 
     </td>
+
     <td width="33%" valign="top">
 
 ### 3) REPO_3 — Practice / Exercises
@@ -133,7 +128,7 @@ Backend developer focused on building secure and maintainable APIs, with clear s
 <hr/>
 
 <!-- =========================
-   Stats (opcional, se ve brutal)
+   Stats (opcional)
    ========================= -->
 
 <p align="center">
