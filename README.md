@@ -32,8 +32,6 @@
 
 Backend developer focused on building secure and maintainable APIs, with clear structure and strong documentation.
 
-<br/>
-
 ## Focus
 
 - Clean Architecture / layered structure  
