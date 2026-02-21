@@ -28,12 +28,6 @@
     />
   </a>
 </p>
----
-<p align="center">
-  <img src="./Presentation.png" alt="Presentation" width="100%" />
-</p>
----
-
 ## Profile
 
 Backend developer focused on building secure and maintainable APIs, with clear structure and strong documentation.
