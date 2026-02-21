@@ -49,14 +49,24 @@ Backend developer focused on building secure and maintainable APIs, with clear s
 ## Tech Stack
 
 <p align="center">
+  <!-- Backend Java -->
   <img src="https://skillicons.dev/icons?i=java&theme=dark" height="72" />
   <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="72" />
-  <img src="https://skillicons.dev/icons?i=laravel&theme=dark" height="72" />
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="72" />
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="72" />
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="72" />
-  <img src="https://skillicons.dev/icons?i=maven&theme=dark" height="72" />
+  <img src="https://skillicons.dev/icons?i=idea&theme=dark" height="72" />
+
+  <!-- Backend PHP -->
   <img src="https://skillicons.dev/icons?i=php&theme=dark" height="72" />
+  <img src="https://skillicons.dev/icons?i=laravel&theme=dark" height="72" />
+
+  <!-- Editor -->
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="72" />
+
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=javascript&theme=dark" height="72" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="72" />
+
+  <!-- Control & Testing -->
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="72" />
   <img src="https://skillicons.dev/icons?i=postman&theme=dark" height="72" />
 </p>
 
