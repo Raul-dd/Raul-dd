@@ -1,116 +1,74 @@
 <!-- =========================
-   Raul Díaz Díaz — Profile README
+   Raul Díaz Díaz — GitHub Profile
    ========================= -->
 
 <h1 align="center">Raul Díaz Díaz</h1>
 
 <p align="center">
-  <b>Backend Engineer</b> • Java • Spring Boot • REST APIs • Clean Architecture • SQL
+  <b>Backend Developer (Java)</b> • Spring Boot • REST APIs • SQL • Clean Architecture
+  <br/>
+  <span>Plus:</span> Laravel • React (Vite) • MySQL
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hidalgo%2C%20Mexico-FFFFFF?style=for-the-badge&logo=googlemaps&logoColor=EF4444&labelColor=FFFFFF" />
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/raul-dd/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-raul--dd-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:raulddev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:rauldddev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rauldddev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <img src="https://img.shields.io/badge/Hidalgo%2C%20Mexico-111827?style=for-the-badge&logo=googlemaps&logoColor=EF4444" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 About me
+Backend-oriented developer focused on **Java**. I build **REST APIs**, business logic and SQL-based solutions with an emphasis on **clean code, maintainability and scalability**.
 
-Backend developer specialized in designing secure, scalable and well-structured REST APIs using Java and Spring Boot.
-
-I focus on maintainable architectures, clear documentation, and production-ready backend systems.
-
----
-
-## 🧠 Core Expertise
-
-- Clean Architecture & layered design
-- Spring Security & JWT authentication
-- Role-based access control
-- DTO pattern & validation
-- Global exception handling
-- Pagination, filtering & sorting
-- SQL relational database design
-- API documentation with Swagger/OpenAPI
-- Deployment-ready backend systems
+I’ve shipped real web solutions using **Laravel + React (Vite)**, and I’m currently specializing in **Java/Spring Boot**.
 
 ---
 
-## 🛠 Tech Stack
+## 🧰 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,git,github,postman,linux" />
+</p>
 
+**Also worked with:** PHP (Laravel), React (Vite), Tailwind, JavaScript
+
+---
+
+## 📌 Featured Java Projects
+- **🧾 Ferretería Desktop (Java + MySQL)**  
+  Desktop sales/inventory system: ventas, compras, inventario, reportes, roles.  
+  👉 https://github.com/Raul-dd/ferreteria-desktop-java
+
+- **👤 Spring Boot Users CRUD (REST API)**  
+  CRUD API with clean structure and backend fundamentals.  
+  👉 https://github.com/Raul-dd/springboot-users-crud
+
+- **🛒 Supermarket Streams Exercise (Java)**  
+  Streams/Lambdas/Collectors practice with real data processing.  
+  👉 https://github.com/Raul-dd/java-streams-supermarket-exercise
+
+---
+
+## 🎯 What I’m focusing on (Java)
+- Spring Boot best practices (layered architecture, DTOs, validations)
+- SQL design and performance fundamentals
+- API documentation (OpenAPI/Swagger)
+- Testing (JUnit / Mockito) + CI basics
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="65" />
-  <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="65" />
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="65" />
-  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="65" />
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="65" />
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="65" />
-  <img src="https://skillicons.dev/icons?i=idea&theme=dark" height="65" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Raul-dd&show_icons=true&hide_title=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-dd&layout=compact" />
 </p>
 
 ---
 
-## ⭐ Featured Project
-
-### 🔐 Secure User Management API (Spring Boot)
-
-Enterprise-level REST API with authentication and role-based authorization.
-
-**Highlights:**
-- JWT authentication
-- Role-based security (ADMIN / USER)
-- Clean Architecture structure
-- DTO mapping & validation
-- Global error handling
-- Pagination & filtering
-- Swagger documentation
-- Dockerized
-- Deployed to cloud
-
-🔗 Live API: https://your-api-url.onrender.com  
-📘 Swagger Docs: https://your-api-url.onrender.com/swagger-ui/index.html  
-💻 Repository: https://github.com/Raul-dd/secure-user-management-api  
-
----
-
-## 📂 Additional Projects
-
-### 🛠 Hardware Store Management System (Java Desktop)
-Java Swing application for inventory and store management.
-
-### 🧠 Functional Programming in Java
-Streams, Lambdas, Collectors and parallel processing.
-
----
-
-## 📈 Professional Focus
-
-I aim to build backend systems that are:
-
-- Secure
-- Scalable
-- Structured
-- Production-ready
-
-Currently focused on deepening expertise in:
-
-- Advanced Spring Security
-- System design fundamentals
-- Performance optimization
-- Microservices architecture
-
----
-
-## 📬 Contact
-
+## 🤝 Contact
 - LinkedIn: https://www.linkedin.com/in/raul-dd/
-- Email: raulddev@gmail.com
-- Location: Hidalgo, Mexico
+- Email: rauldddev@gmail.com
