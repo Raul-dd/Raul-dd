@@ -1,7 +1,3 @@
-<!-- =========================
-   Raul Díaz Díaz — GitHub Profile
-   ========================= -->
-
 <h1 align="center">Raul Díaz Díaz</h1>
 
 <p align="center">
