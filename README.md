@@ -43,6 +43,42 @@
 
 ## Java projects ☕️
 
-| | | |
-|---|---|---|
-| [![springboot-users-crud](https://github-readme-stats.vercel.app/api/pin/?username=Raul-dd&repo=springboot-users-crud&theme=dark&hide_border=false)](https://github.com/Raul-dd/springboot-users-crud) <br/> [![View Repo](https://img.shields.io/badge/VIEW%20REPO-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raul-dd/springboot-users-crud) <br/> Simple user CRUD with Spring Boot (REST API). | [![java-streams-supermarket-exercise](https://github-readme-stats.vercel.app/api/pin/?username=Raul-dd&repo=java-streams-supermarket-exercise&theme=dark&hide_border=false)](https://github.com/Raul-dd/java-streams-supermarket-exercise) <br/> [![View Repo](https://img.shields.io/badge/VIEW%20REPO-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raul-dd/java-streams-supermarket-exercise) <br/> Streams, Lambdas & Collectors exercises. | [![ferreteria-desktop-java](https://github-readme-stats.vercel.app/api/pin/?username=Raul-dd&repo=ferreteria-desktop-java&theme=dark&hide_border=false)](https://github.com/Raul-dd/ferreteria-desktop-java) <br/> [![View Repo](https://img.shields.io/badge/VIEW%20REPO-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raul-dd/ferreteria-desktop-java) <br/> Java Swing desktop app for hardware store management. |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/Raul-dd/springboot-users-crud" target="_blank">
+        <img src="assets/springboot-users-crud.png" alt="springboot-users-crud" width="100%" />
+      </a>
+      <br/>
+      <a href="https://github.com/Raul-dd/springboot-users-crud" target="_blank">
+        <img alt="View Repo" src="https://img.shields.io/badge/VIEW%20REPO-100000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br/><br/>
+      Simple user CRUD with Spring Boot (REST API).
+    </td>
+
+    <td width="33%" valign="top">
+      <a href="https://github.com/Raul-dd/java-streams-supermarket-exercise" target="_blank">
+        <img src="assets/java-streams-supermarket-exercise.png" alt="java-streams-supermarket-exercise" width="100%" />
+      </a>
+      <br/>
+      <a href="https://github.com/Raul-dd/java-streams-supermarket-exercise" target="_blank">
+        <img alt="View Repo" src="https://img.shields.io/badge/VIEW%20REPO-100000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br/><br/>
+      Streams, Lambdas & Collectors exercises.
+    </td>
+
+    <td width="33%" valign="top">
+      <a href="https://github.com/Raul-dd/ferreteria-desktop-java" target="_blank">
+        <img src="assets/ferreteria-desktop-java.png" alt="ferreteria-desktop-java" width="100%" />
+      </a>
+      <br/>
+      <a href="https://github.com/Raul-dd/ferreteria-desktop-java" target="_blank">
+        <img alt="View Repo" src="https://img.shields.io/badge/VIEW%20REPO-100000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br/><br/>
+      Java Swing desktop app for hardware store management.
+    </td>
+  </tr>
+</table>
