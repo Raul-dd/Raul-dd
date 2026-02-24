@@ -1,70 +1,148 @@
-<h1 align="center">Raul Díaz Díaz</h1>
+<!-- =========================
+   Raul Díaz Díaz — Profile README
+   ========================= -->
+
+<h1 align="center">Hola 👋 soy Raul Díaz Díaz / Raul-dd ✨</h1>
 
 <p align="center">
-  <b>Backend Developer (Java)</b> • Spring Boot • REST APIs • SQL • Clean Architecture
-  <br/>
-  <span>Plus:</span> Laravel • React (Vite) • MySQL
+  <b>Backend Developer</b> • Java • Spring Boot • Laravel • React • REST APIs • Clean Architecture • SQL
 </p>
 
+<!-- Contacto (sin YouTube / TikTok / Facebook) -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/raul-dd/">
-    <img src="https://img.shields.io/badge/LinkedIn-raul--dd-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <!-- Ubicación -->
+  <img
+    alt="Hidalgo, Mexico"
+    src="https://img.shields.io/badge/📍%20Hidalgo%2C%20Mexico-FFFFFF?style=for-the-badge&labelColor=FFFFFF"
+  />
+  &nbsp;&nbsp;
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/raul-dd/" target="_blank">
+    <img
+      alt="LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
   </a>
-  <a href="mailto:rauldddev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rauldddev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  &nbsp;&nbsp;
+
+  <!-- Gmail -->
+  <a href="mailto:raulddev@gmail.com" target="_blank">
+    <img
+      alt="Gmail"
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    />
   </a>
-  <img src="https://img.shields.io/badge/Hidalgo%2C%20Mexico-111827?style=for-the-badge&logo=googlemaps&logoColor=EF4444" />
 </p>
 
----
+<br/>
 
-## 🚀 About me
-Backend-oriented developer focused on **Java**. I build **REST APIs**, business logic and SQL-based solutions with an emphasis on **clean code, maintainability and scalability**.
-
-I’ve shipped real web solutions using **Laravel + React (Vite)**, and I’m currently specializing in **Java/Spring Boot**.
-
----
-
-## 🧰 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,git,github,postman,linux" />
+<h2>Sobre mí 😃</h2>
+<p align="left">
+  🎓 <b>Backend Developer</b> enfocado en construir APIs limpias, escalables y mantenibles.<br/><br/>
+  🧠 Me gusta aplicar <b>Clean Architecture</b>, buenas prácticas, validaciones, manejo de errores y diseño por capas.<br/><br/>
+  🚀 Stack principal: <b>Java + Spring Boot</b> (REST APIs) y experiencia complementaria con <b>Laravel</b> y <b>React</b>.<br/><br/>
+  📫 Contacto: <b><a href="mailto:raulddev@gmail.com">raulddev@gmail.com</a></b>
 </p>
 
-**Also worked with:** PHP (Laravel), React (Vite), Tailwind, JavaScript
+<br/>
 
----
-
-## 📌 Featured Java Projects
-- **🧾 Ferretería Desktop (Java + MySQL)**  
-  Desktop sales/inventory system: ventas, compras, inventario, reportes, roles.  
-  👉 https://github.com/Raul-dd/ferreteria-desktop-java
-
-- **👤 Spring Boot Users CRUD (REST API)**  
-  CRUD API with clean structure and backend fundamentals.  
-  👉 https://github.com/Raul-dd/springboot-users-crud
-
-- **🛒 Supermarket Streams Exercise (Java)**  
-  Streams/Lambdas/Collectors practice with real data processing.  
-  👉 https://github.com/Raul-dd/java-streams-supermarket-exercise
-
----
-
-## 🎯 What I’m focusing on (Java)
-- Spring Boot best practices (layered architecture, DTOs, validations)
-- SQL design and performance fundamentals
-- API documentation (OpenAPI/Swagger)
-- Testing (JUnit / Mockito) + CI basics
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Raul-dd&show_icons=true&hide_title=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-dd&layout=compact" />
+<h2>Tecnologías conocidas 👨🏻‍💻</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,mysql,postgres,js,ts,react,laravel,html,css,git,github,docker,postman,idea,vscode,linux&perline=10"
+    />
+  </a>
 </p>
 
----
+<br/>
 
-## 🤝 Contact
-- LinkedIn: https://www.linkedin.com/in/raul-dd/
-- Email: rauldddev@gmail.com
+<h2>Proyectos en Java 💻</h2>
+
+<table align="center">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="https://github.com/Raul-dd/springboot-users-crud" target="_blank" title="Ir al repositorio">
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=Raul-dd&repo=springboot-users-crud&theme=dark&hide_border=false"
+          alt="springboot-users-crud"
+        />
+      </a>
+      <br/>
+      <a href="https://github.com/Raul-dd/springboot-users-crud" target="_blank">
+        <img
+          alt="GitHub"
+          src="https://img.shields.io/badge/Ver%20Repo-100000?style=for-the-badge&logo=github&logoColor=white"
+        />
+      </a>
+      <p>CRUD simple de usuarios con Spring Boot (REST API).</p>
+    </td>
+
+    <td width="33%" align="center" valign="top">
+      <a href="https://github.com/Raul-dd/java-streams-supermarket-exercise" target="_blank" title="Ir al repositorio">
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=Raul-dd&repo=java-streams-supermarket-exercise&theme=dark&hide_border=false"
+          alt="java-streams-supermarket-exercise"
+        />
+      </a>
+      <br/>
+      <a href="https://github.com/Raul-dd/java-streams-supermarket-exercise" target="_blank">
+        <img
+          alt="GitHub"
+          src="https://img.shields.io/badge/Ver%20Repo-100000?style=for-the-badge&logo=github&logoColor=white"
+        />
+      </a>
+      <p>Ejercicios con Streams, Lambdas y Collectors para procesar datos.</p>
+    </td>
+
+    <td width="33%" align="center" valign="top">
+      <a href="https://github.com/Raul-dd/ferreteria-desktop-java" target="_blank" title="Ir al repositorio">
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=Raul-dd&repo=ferreteria-desktop-java&theme=dark&hide_border=false"
+          alt="ferreteria-desktop-java"
+        />
+      </a>
+      <br/>
+      <a href="https://github.com/Raul-dd/ferreteria-desktop-java" target="_blank">
+        <img
+          alt="GitHub"
+          src="https://img.shields.io/badge/Ver%20Repo-100000?style=for-the-badge&logo=github&logoColor=white"
+        />
+      </a>
+      <p>Aplicación de escritorio con Java Swing para gestión de ferretería.</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h2>GitHub :octocat:</h2>
+
+<table align="center">
+  <tr>
+    <td width="60%" align="center">
+      <img
+        title="🔥 Streak Stats"
+        alt="Streak Stats"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Raul-dd&theme=dark&hide_border=false"
+      />
+    </td>
+    <td width="40%" align="center">
+      <img
+        alt="Top Langs"
+        src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Raul-dd&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"
+      />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Trophies">
+    <img
+      width="90%"
+      src="https://github-profile-trophy.vercel.app/?username=Raul-dd&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true"
+      alt="TROPHY"
+    />
+  </a>
+</div>
