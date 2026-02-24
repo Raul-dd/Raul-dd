@@ -2,7 +2,7 @@
    Raul Díaz Díaz — Profile README
    ========================= -->
 
-<h1 align="center">Hola 👋 soy Raul Díaz Díaz / Raul-dd ✨</h1>
+<h1 align="center">Hi 👋 I'm Raul Díaz Díaz / Raul-dd ✨</h1>
 
 <p align="center">
   <b>Backend Developer</b> • Java • Spring Boot • Laravel • React • REST APIs • Clean Architecture • SQL
@@ -22,16 +22,16 @@
 
 ---
 
-## Sobre mí 😃
+## About me 😃
 
-- 🎓 **Backend Developer** enfocado en construir APIs limpias, escalables y mantenibles.
-- 🧠 Me gusta aplicar **Clean Architecture**, buenas prácticas, validaciones y manejo de errores.
-- 🚀 Stack principal: **Java + Spring Boot** (REST APIs). Complemento: **Laravel** y **React**.
-- 📫 Contacto: **raulddev@gmail.com**
+- 🎓 **Backend Developer** focused on building clean, scalable, and maintainable APIs.
+- 🧠 I like applying **Clean Architecture**, best practices, validations, and solid error handling.
+- 🚀 Main stack: **Java + Spring Boot** (REST APIs). Also familiar with **Laravel** and **React**.
+- 📫 Contact: **raulddev@gmail.com**
 
 ---
 
-## Tecnologías 👨🏻‍💻
+## Tech stack 👨🏻‍💻
 
 <p>
   <a href="https://skillicons.dev">
@@ -41,20 +41,8 @@
 
 ---
 
-## Proyectos en Java ☕️
+## Java projects ☕️
 
 | | | |
 |---|---|---|
-| [![springboot-users-crud](https://github-readme-stats.vercel.app/api/pin/?username=Raul-dd&repo=springboot-users-crud&theme=dark&hide_border=false)](https://github.com/Raul-dd/springboot-users-crud) <br/> [![Ver Repo](https://img.shields.io/badge/VER%20REPO-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raul-dd/springboot-users-crud) <br/> CRUD simple de usuarios con Spring Boot (REST API). | [![java-streams-supermarket-exercise](https://github-readme-stats.vercel.app/api/pin/?username=Raul-dd&repo=java-streams-supermarket-exercise&theme=dark&hide_border=false)](https://github.com/Raul-dd/java-streams-supermarket-exercise) <br/> [![Ver Repo](https://img.shields.io/badge/VER%20REPO-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raul-dd/java-streams-supermarket-exercise) <br/> Ejercicios con Streams, Lambdas y Collectors. | [![ferreteria-desktop-java](https://github-readme-stats.vercel.app/api/pin/?username=Raul-dd&repo=ferreteria-desktop-java&theme=dark&hide_border=false)](https://github.com/Raul-dd/ferreteria-desktop-java) <br/> [![Ver Repo](https://img.shields.io/badge/VER%20REPO-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raul-dd/ferreteria-desktop-java) <br/> App de escritorio con Java Swing para ferretería. |
-
----
-
-## GitHub 📊
-
-| | |
-|---|---|
-| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raul-dd&theme=dark&hide_border=false) | ![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Raul-dd&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10) |
-
-<p align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Raul-dd&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophies" />
-</p>
+| [![springboot-users-crud](https://github-readme-stats.vercel.app/api/pin/?username=Raul-dd&repo=springboot-users-crud&theme=dark&hide_border=false)](https://github.com/Raul-dd/springboot-users-crud) <br/> [![View Repo](https://img.shields.io/badge/VIEW%20REPO-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raul-dd/springboot-users-crud) <br/> Simple user CRUD with Spring Boot (REST API). | [![java-streams-supermarket-exercise](https://github-readme-stats.vercel.app/api/pin/?username=Raul-dd&repo=java-streams-supermarket-exercise&theme=dark&hide_border=false)](https://github.com/Raul-dd/java-streams-supermarket-exercise) <br/> [![View Repo](https://img.shields.io/badge/VIEW%20REPO-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raul-dd/java-streams-supermarket-exercise) <br/> Streams, Lambdas & Collectors exercises. | [![ferreteria-desktop-java](https://github-readme-stats.vercel.app/api/pin/?username=Raul-dd&repo=ferreteria-desktop-java&theme=dark&hide_border=false)](https://github.com/Raul-dd/ferreteria-desktop-java) <br/> [![View Repo](https://img.shields.io/badge/VIEW%20REPO-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raul-dd/ferreteria-desktop-java) <br/> Java Swing desktop app for hardware store management. |
