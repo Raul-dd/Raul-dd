@@ -76,3 +76,43 @@
     </td>
   </tr>
 </table>
+
+<h2>Client Work (Production) 🚀</h2>
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="https://www.ayudaresamar.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/Raul-dd/Raul-dd/main/assets/ayudar-es-amar.png" width="95%" alt="Ayudar es Amar AC" />
+      </a>
+      <br/>
+      <a href="https://www.ayudaresamar.org" target="_blank">
+        <img src="https://img.shields.io/badge/LIVE%20SITE-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+      <br/><br/>
+      <sub>NGO website + admin dashboard (private demo). Built and deployed for client.</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://www.bufeteauxiliumperitus.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/Raul-dd/Raul-dd/main/assets/bufete-auxilium-peritus.png" width="95%" alt="Bufete Auxilium Peritus" />
+      </a>
+      <br/>
+      <a href="https://www.bufeteauxiliumperitus.com" target="_blank">
+        <img src="https://img.shields.io/badge/LIVE%20SITE-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+      <br/><br/>
+      <sub>Legal firm website + admin panel (private demo). Performance + responsive UI.</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://tramitelegal.site" target="_blank">
+        <img src="https://raw.githubusercontent.com/Raul-dd/Raul-dd/main/assets/tramite-legal.png" width="95%" alt="Trámite Legal" />
+      </a>
+      <br/>
+      <a href="https://tramitelegal.site" target="_blank">
+        <img src="https://img.shields.io/badge/LIVE%20SITE-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+      <br/><br/>
+      <sub>Search-based service website + admin CRUD (private demo). Built for production.</sub>
+    </td>
+  </tr>
+</table>
