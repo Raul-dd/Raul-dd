@@ -1,7 +1,3 @@
-<!-- =========================
-   Raul Díaz Díaz — Profile README
-   ========================= -->
-
 <h1 align="center">Hi 👋 I'm Raul Díaz Díaz / Raul-dd ✨</h1>
 
 <p align="center">
@@ -56,7 +52,6 @@
       <br/><br/>
       Simple user CRUD with Spring Boot (REST API).
     </td>
-
     <td width="33%" valign="top">
       <a href="https://github.com/Raul-dd/java-streams-supermarket-exercise" target="_blank">
         <img src="assets/java-streams-supermarket-exercise.png" alt="java-streams-supermarket-exercise" width="100%" />
@@ -68,7 +63,6 @@
       <br/><br/>
       Streams, Lambdas & Collectors exercises.
     </td>
-
     <td width="33%" valign="top">
       <a href="https://github.com/Raul-dd/ferreteria-desktop-java" target="_blank">
         <img src="assets/ferreteria-desktop-java.png" alt="ferreteria-desktop-java" width="100%" />
