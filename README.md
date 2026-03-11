@@ -42,6 +42,17 @@
 <table>
   <tr>
     <td width="33%" valign="top">
+      <a href="https://github.com/Raul-dd/ExerciseTecSupermarket" target="_blank">
+        <img src="assets/exercise-tec-supermarket.png" alt="ExerciseTecSupermarket" width="100%" />
+      </a>
+      <br/>
+      <a href="https://github.com/Raul-dd/ExerciseTecSupermarket" target="_blank">
+        <img alt="View Repo" src="https://img.shields.io/badge/VIEW%20REPO-100000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br/><br/>
+      REST API for supermarket sales management built with Spring Boot, JPA and relational database.
+    </td>
+    <td width="33%" valign="top">
       <a href="https://github.com/Raul-dd/springboot-users-crud" target="_blank">
         <img src="assets/springboot-users-crud.png" alt="springboot-users-crud" width="100%" />
       </a>
@@ -53,17 +64,6 @@
       Simple user CRUD with Spring Boot (REST API).
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/Raul-dd/java-streams-supermarket-exercise" target="_blank">
-        <img src="assets/java-streams-supermarket-exercise.png" alt="java-streams-supermarket-exercise" width="100%" />
-      </a>
-      <br/>
-      <a href="https://github.com/Raul-dd/java-streams-supermarket-exercise" target="_blank">
-        <img alt="View Repo" src="https://img.shields.io/badge/VIEW%20REPO-100000?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <br/><br/>
-      Streams, Lambdas & Collectors exercises.
-    </td>
-    <td width="33%" valign="top">
       <a href="https://github.com/Raul-dd/ferreteria-desktop-java" target="_blank">
         <img src="assets/ferreteria-desktop-java.png" alt="ferreteria-desktop-java" width="100%" />
       </a>
@@ -73,6 +73,19 @@
       </a>
       <br/><br/>
       Java Swing desktop app for hardware store management.
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/Raul-dd/java-streams-supermarket-exercise" target="_blank">
+        <img src="assets/java-streams-supermarket-exercise.png" alt="java-streams-supermarket-exercise" width="100%" />
+      </a>
+      <br/>
+      <a href="https://github.com/Raul-dd/java-streams-supermarket-exercise" target="_blank">
+        <img alt="View Repo" src="https://img.shields.io/badge/VIEW%20REPO-100000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br/><br/>
+      Streams, Lambdas & Collectors exercises.
     </td>
   </tr>
 </table>
